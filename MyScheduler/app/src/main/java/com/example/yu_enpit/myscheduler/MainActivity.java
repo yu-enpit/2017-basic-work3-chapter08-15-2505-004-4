@@ -1,5 +1,5 @@
 package com.example.yu_enpit.myscheduler;
-
+/*::*/
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
